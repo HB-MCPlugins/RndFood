@@ -1,0 +1,4 @@
+name: RndFood
+version: '1.0-SNAPSHOT'
+main: com.hwibaek.rndFood.RndFood
+api-version: '1.21'
